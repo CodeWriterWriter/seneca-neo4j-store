@@ -1,3 +1,6 @@
+# Project Status :
+This plugin is not being supported by the seneca organization,  and is no longer proven to work.
+If you are interested in maintaining this project, please contact us via the issue queue.
 [![Build Status](https://travis-ci.org/piccoloaiutante/seneca-neo4j-store.png?branch=master)](https://travis-ci.org/piccoloaiutante/seneca-neo4j-store)
 
 # seneca-neo4j-store
